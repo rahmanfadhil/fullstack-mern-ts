@@ -1,6 +1,6 @@
-# Fullstack React & Graphql
+# Fullstack React & Express
 
-Complete fullstack app boilerplate with react, graphql, docker, and typescript
+Complete fullstack app boilerplate with react, express, docker, and typescript
 
 ## Features:
 
@@ -29,7 +29,9 @@ Complete fullstack app boilerplate with react, graphql, docker, and typescript
   - Redux Form (coming soon)
 - Back End
   - Typeorm
-  - Graphql Yoga
+  - Express
+  - Passport Local
+  - Passport Google (coming soon)
 - Database
   - PostgreSQL (production)
   - SQLite (development)
