@@ -35,6 +35,7 @@ Complete fullstack app boilerplate with react, express, docker, and typescript
 - Database
   - PostgreSQL (production)
   - SQLite (development)
+  - Redis (caching)
 
 ## How to use
 
